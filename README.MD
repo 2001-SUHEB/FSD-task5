@@ -21,9 +21,9 @@ The objective of this project is to create a sample resume data in JSON format a
 ## Usage
 
 1. **Creating Resume Data**:
-   - Modify `resume_data.json` to match your resume information.
+   - Modify `Resume-data-json.json` to match your resume information.
 
 2. **Running Iterations**:
-   - Execute `resume_iteration.js` in a Node.js environment.
+   - Execute `Resume-data-json.js` in a Node.js environment.
 
  
