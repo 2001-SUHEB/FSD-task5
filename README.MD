@@ -15,7 +15,7 @@ The objective of this project is to create a sample resume data in JSON format a
 ## Files
 
 - **Resume-data-json.json**: Contains sample resume data in JSON format.
-- **Resume-data-json.js**: JavaScript code for iterating over resume data using different loop types.
+- **JSON-iteration.js**: JavaScript code for iterating over resume data using different loop types.
 - **README.md**: Overview of the repository (you're reading it now).
 
 ## Usage
@@ -24,6 +24,6 @@ The objective of this project is to create a sample resume data in JSON format a
    - Modify `Resume-data-json.json` to match your resume information.
 
 2. **Running Iterations**:
-   - Execute `Resume-data-json.js` in a Node.js environment.
+   - Execute `JSON-iteration.js` in a Node.js environment.
 
  
